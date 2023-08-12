@@ -9,11 +9,11 @@
 
 ## Hello, 코틀린!
 ### 코틀린 특징
-- [Statically Typed - 정적 타입]()
-- [Interoperable - 상호운용성]()
-- [Null Safety - 널 안전성]()
-- [Immutable - 불변성]()
-- [Concise - 간결성]()
-- [Extension Function - 확장 함수]()
-- [Functional Programming - 함수형 프로그래밍]()
-- [MultiPlatform - 멀티플랫폼]()
+- [Statically Typed - 정적 타입](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/Hello%2C%20%EC%BD%94%ED%8B%80%EB%A6%B0!/Statically%20Typed.md)
+- [Interoperable - 상호운용성](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/Hello%2C%20%EC%BD%94%ED%8B%80%EB%A6%B0!/Interoperable.md)
+- [Null Safety - 널 안전성](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/Hello%2C%20%EC%BD%94%ED%8B%80%EB%A6%B0!/Null%20Safety.md)
+- [Immutable - 불변성](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/Hello%2C%20%EC%BD%94%ED%8B%80%EB%A6%B0!/Immutable.md)
+- [Concise - 간결성](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/Hello%2C%20%EC%BD%94%ED%8B%80%EB%A6%B0!/Concise.md)
+- [Extension Function - 확장 함수](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/Hello%2C%20%EC%BD%94%ED%8B%80%EB%A6%B0!/Extension%20Function.md)
+- [Functional Programming - 함수형 프로그래밍](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/Hello%2C%20%EC%BD%94%ED%8B%80%EB%A6%B0!/Functional%20Programming.md)
+- [MultiPlatform - 멀티플랫폼](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/Hello%2C%20%EC%BD%94%ED%8B%80%EB%A6%B0!/MultiPlatform.md)
