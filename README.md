@@ -21,6 +21,6 @@
 
 추가적으로 공부할 것 : Coroutine, DSL, OOP, Higher-order Function
 ## 코틀린 프로그래밍 기본 1
-- [01. 자료형]()
-- [02. Null]()
+- [01. 자료형](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/01.%EC%9E%90%EB%A3%8C%ED%98%95.md)
+- [02. Null](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/02.Null.md)
 - [03. 이중 등호 비교와 삼중 등호 비교]()
