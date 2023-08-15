@@ -18,3 +18,7 @@
 - [Extension Function - 확장 함수](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/Hello%2C%20%EC%BD%94%ED%8B%80%EB%A6%B0!/Extension%20Function.md)
 - [Functional Programming - 함수형 프로그래밍](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/Hello%2C%20%EC%BD%94%ED%8B%80%EB%A6%B0!/Functional%20Programming.md)
 - [MultiPlatform - 멀티플랫폼](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/Hello%2C%20%EC%BD%94%ED%8B%80%EB%A6%B0!/MultiPlatform.md)
+
+추가적으로 공부할 것 : Coroutine, DSL, OOP, Higher-order Function
+## 코틀린 프로그래밍 기본 1
+- [자료형]()
