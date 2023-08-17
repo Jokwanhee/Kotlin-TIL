@@ -6,21 +6,33 @@
 - [Hello, 코틀린!](https://www.boostcourse.org/mo001)
   - 2023.08.13
 - [코틀린 프로그래밍 기본 1](https://www.boostcourse.org/mo132)
+  - 2023.08.15 ~ 
 - [코틀린 프로그래밍 기본 2](https://www.boostcourse.org/mo234)
 
 ## Hello, 코틀린!
 ### 코틀린 특징
-- [Statically Typed - 정적 타입](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/Hello%2C%20%EC%BD%94%ED%8B%80%EB%A6%B0!/Statically%20Typed.md)
-- [Interoperable - 상호운용성](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/Hello%2C%20%EC%BD%94%ED%8B%80%EB%A6%B0!/Interoperable.md)
-- [Null Safety - 널 안전성](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/Hello%2C%20%EC%BD%94%ED%8B%80%EB%A6%B0!/Null%20Safety.md)
-- [Immutable - 불변성](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/Hello%2C%20%EC%BD%94%ED%8B%80%EB%A6%B0!/Immutable.md)
-- [Concise - 간결성](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/Hello%2C%20%EC%BD%94%ED%8B%80%EB%A6%B0!/Concise.md)
-- [Extension Function - 확장 함수](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/Hello%2C%20%EC%BD%94%ED%8B%80%EB%A6%B0!/Extension%20Function.md)
-- [Functional Programming - 함수형 프로그래밍](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/Hello%2C%20%EC%BD%94%ED%8B%80%EB%A6%B0!/Functional%20Programming.md)
-- [MultiPlatform - 멀티플랫폼](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/Hello%2C%20%EC%BD%94%ED%8B%80%EB%A6%B0!/MultiPlatform.md)
+- [Statically Typed - 정적 타입]()
+- [Interoperable - 상호운용성]()
+- [Null Safety - 널 안전성]()
+- [Immutable - 불변성]()
+- [Concise - 간결성]()
+- [Extension Function - 확장 함수]()
+- [Functional Programming - 함수형 프로그래밍]()
+- [MultiPlatform - 멀티플랫폼]()
 
-추가적으로 공부할 것 : Coroutine, DSL, OOP, Higher-order Function
+추가적으로 공부할 것 : Coroutine, DSL, OOP
 ## 코틀린 프로그래밍 기본 1
-- [01. 자료형](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/01.%EC%9E%90%EB%A3%8C%ED%98%95.md)
-- [02. Null](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/02.Null.md)
+### 코틀린 기본
+- [01. 자료형]()
+- [02. Null]()
 - [03. 이중 등호 비교와 삼중 등호 비교]()
+### 함수형 프로그래밍
+- [04. 함수]()
+- [05. 함수형 프로그래밍]()
+- [06. 람다식]()
+- [07. 고차함수]()
+- [08. 인라인 함수]()
+- [09. 확장 함수]()
+- [10. 중위 함수]()
+- [11. 재귀 함수]()
+- [12. 함수와 변수의 범위]()
