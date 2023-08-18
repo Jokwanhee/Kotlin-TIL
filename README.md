@@ -37,7 +37,12 @@
 - [11. 재귀 함수](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/02.%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/11.%EC%9E%AC%EA%B7%80%20%ED%95%A8%EC%88%98.md)
 - [12. 함수와 변수의 범위](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/02.%ED%95%A8%EC%88%98%ED%98%95%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/12.%ED%95%A8%EC%88%98%EC%99%80%20%EB%B3%80%EC%88%98%EC%9D%98%20%EB%B2%94%EC%9C%84.md)
 ### 프로그램 흐름의 제어
-- [13. when 문]()
-- [14. 반복문]()
-- [15. 흐름 제어]()
-- [16. 예외 처리]()
+- [13. when 문](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/03.%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%ED%9D%90%EB%A6%84%EC%9D%98%20%EC%A0%9C%EC%96%B4/13.when%20%EB%AC%B8.md)
+- [14. 반복문](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/03.%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%ED%9D%90%EB%A6%84%EC%9D%98%20%EC%A0%9C%EC%96%B4/14.%EB%B0%98%EB%B3%B5%EB%AC%B8.md)
+- [15. 흐름 제어](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/03.%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%ED%9D%90%EB%A6%84%EC%9D%98%20%EC%A0%9C%EC%96%B4/15.%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4.md)
+- [16. 예외 처리](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/03.%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%ED%9D%90%EB%A6%84%EC%9D%98%20%EC%A0%9C%EC%96%B4/16.%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)
+### 코틀린의 표준함수 활용
+- [17. 클로저]()
+- [18. 스코프 함수]()
+- [19. with()과 use()]()
+- [20. 기타 표준 함수]()
