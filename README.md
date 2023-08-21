@@ -49,10 +49,10 @@
 - [20. 기타 표준 함수](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/04.%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98%20%ED%91%9C%EC%A4%80%ED%95%A8%EC%88%98%20%ED%99%9C%EC%9A%A9/20.%EA%B8%B0%ED%83%80%20%ED%91%9C%EC%A4%80%20%ED%95%A8%EC%88%98.md)
 ## 코틀린 프로그래밍 기본 2
 ### 객체지향의 기본
-- [01. 클래스와 객체]()
-- [02. 생성자]()
-- [03. 상속]()
-- [04. 다형성]()
-- [05. super와 this]()
-- [06. 캡슐화]()
-- [07. 클래스와 관계]()
+- [01. 클래스와 객체](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/05.%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EA%B8%B0%EB%B3%B8/01.%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EA%B0%9D%EC%B2%B4.md)
+- [02. 생성자](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/05.%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EA%B8%B0%EB%B3%B8/02.%20%EC%83%9D%EC%84%B1%EC%9E%90.md)
+- [03. 상속](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/05.%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EA%B8%B0%EB%B3%B8/03.%20%EC%83%81%EC%86%8D.md)
+- [04. 다형성](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/05.%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EA%B8%B0%EB%B3%B8/04.%20%EB%8B%A4%ED%98%95%EC%84%B1.md)
+- [05. super와 this](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/05.%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EA%B8%B0%EB%B3%B8/05.%20super%EC%99%80%20this.md)
+- [06. 캡슐화](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/05.%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EA%B8%B0%EB%B3%B8/06.%20%EC%BA%A1%EC%8A%90%ED%99%94.md)
+- [07. 클래스와 관계](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/05.%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EA%B8%B0%EB%B3%B8/07.%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EA%B4%80%EA%B3%84.md)
