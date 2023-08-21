@@ -6,8 +6,9 @@
 - [Hello, 코틀린!](https://www.boostcourse.org/mo001)
   - 2023.08.13
 - [코틀린 프로그래밍 기본 1](https://www.boostcourse.org/mo132)
-  - 2023.08.15 ~ 
+  - 2023.08.15 ~ 2023.08.19
 - [코틀린 프로그래밍 기본 2](https://www.boostcourse.org/mo234)
+  - 2023.08.21 ~ 
 
 ## Hello, 코틀린!
 ### 코틀린 특징
@@ -42,7 +43,11 @@
 - [15. 흐름 제어](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/03.%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%ED%9D%90%EB%A6%84%EC%9D%98%20%EC%A0%9C%EC%96%B4/15.%ED%9D%90%EB%A6%84%EC%A0%9C%EC%96%B4.md)
 - [16. 예외 처리](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/03.%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%ED%9D%90%EB%A6%84%EC%9D%98%20%EC%A0%9C%EC%96%B4/16.%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)
 ### 코틀린의 표준함수 활용
-- [17. 클로저]()
-- [18. 스코프 함수]()
-- [19. with()과 use()]()
-- [20. 기타 표준 함수]()
+- [17. 클로저](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/04.%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98%20%ED%91%9C%EC%A4%80%ED%95%A8%EC%88%98%20%ED%99%9C%EC%9A%A9/17.%ED%81%B4%EB%A1%9C%EC%A0%80.md)
+- [18. 스코프 함수](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/04.%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98%20%ED%91%9C%EC%A4%80%ED%95%A8%EC%88%98%20%ED%99%9C%EC%9A%A9/18.%EC%8A%A4%EC%BD%94%ED%94%84%20%ED%95%A8%EC%88%98.md)
+- [19. with()과 use()](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/04.%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98%20%ED%91%9C%EC%A4%80%ED%95%A8%EC%88%98%20%ED%99%9C%EC%9A%A9/19.with()%EA%B3%BC%20use().md)
+- [20. 기타 표준 함수](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/04.%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98%20%ED%91%9C%EC%A4%80%ED%95%A8%EC%88%98%20%ED%99%9C%EC%9A%A9/20.%EA%B8%B0%ED%83%80%20%ED%91%9C%EC%A4%80%20%ED%95%A8%EC%88%98.md)
+## 코틀린 프로그래밍 기본 2
+### 객체지향의 기본
+- [01. 클래스와 객체]()
+- [02. 생성자]()
