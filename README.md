@@ -21,7 +21,7 @@
 - [Functional Programming - 함수형 프로그래밍](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/0.Hello%2C%20%EC%BD%94%ED%8B%80%EB%A6%B0!/Functional%20Programming.md)
 - [MultiPlatform - 멀티플랫폼](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/0.Hello%2C%20%EC%BD%94%ED%8B%80%EB%A6%B0!/MultiPlatform.md)
 
-추가적으로 공부할 것 : Coroutine, DSL, OOP
+추가적으로 공부할 것 : DSL
 ## 코틀린 프로그래밍 기본 1
 ### 코틀린 기본
 - [01. 자료형](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/01.%EC%BD%94%ED%8B%80%EB%A6%B0%20%EA%B8%B0%EB%B3%B8/01.%EC%9E%90%EB%A3%8C%ED%98%95.md)
@@ -56,3 +56,6 @@
 - [05. super와 this](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/05.%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EA%B8%B0%EB%B3%B8/05.%20super%EC%99%80%20this.md)
 - [06. 캡슐화](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/05.%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EA%B8%B0%EB%B3%B8/06.%20%EC%BA%A1%EC%8A%90%ED%99%94.md)
 - [07. 클래스와 관계](https://github.com/Jokwanhee/Kotlin-TIL/blob/main/05.%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EC%9D%98%20%EA%B8%B0%EB%B3%B8/07.%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EA%B4%80%EA%B3%84.md)
+- [08. 프로퍼티]()
+- [09. 지연 초기화]()
+- [10. 정적 변수와 메서드]()
